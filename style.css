@@ -1,0 +1,42 @@
+#Eggs{
+    border:2px solid black ;
+    background-color: #fdaa42;
+    border-radius: 10px;
+    height: 30px;
+    width: 50px;
+    bottom: 100px;
+}
+#larva{
+    border:2px solid black ;
+    background-color: #fdaa42;
+    border-radius: 10px;
+    height: 30px;
+    width: 50px;
+    bottom: 100px;
+}
+#pupa{
+    border:2px solid black ;
+    background-color: #fdaa42;
+    border-radius: 10px;
+    height: 30px;
+    width: 50px;
+    bottom: 100px;
+}
+#Butterfly{
+    border:2px solid black ;
+    background-color: #fdaa42;
+    border-radius: 10px;
+    height: 50px;
+    width: 90px;
+    bottom: 100px;
+}
+#image{
+    border-radius: 30px;
+    border: 4px solid black;
+}
+h1{
+    color: #10679b;
+}
+body{
+    background-color: #84b45e;
+}
